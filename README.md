@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./Hi.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./Hi-removebg.png" /></p>
 
 <br />
 
