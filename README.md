@@ -1,5 +1,6 @@
-### 👋🏽Hi, I'm Osenah! 
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./Hi.png" /></p>
 
+<br />
 
 👩🏽‍💻 Software Engineer sharing about my journey and learnings in tech. <br/>
 🔭 I’m currently working on a web application. <br/>
