@@ -2,10 +2,12 @@
 
 <br />
 
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 👩🏽‍💻 Software Engineer learning everyday in tech. <br/>
 🔭 I’m currently working on a web application. <br/>
 🌱 I’m currently learning DevOps and AI. <br/> 
-💬 I'm interested in Parallel Computing, Distributed Systems, Cloud Computing. <br/>
+💬 I'm interested in Parallel Computing, Distributed Systems, Cloud Computing. 
 
 ## 💻 Tech Stack
 
