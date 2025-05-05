@@ -7,7 +7,7 @@
 👩🏽‍💻 Software Engineer learning everyday in tech. <br/>
 🔭 I’m currently working on a web application. <br/>
 🌱 I’m currently learning DevOps and AI. <br/> 
-💬 I'm interested in Parallel Computing, Distributed Systems & Cloud Computing. <br/>
+💬 I'm interested in Parallel Computing, Distributed Systems. <br/>
 
 <br/>
 
@@ -46,12 +46,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitelash&show_icons=true&locale=en&layout=compact&theme=jolly" alt="whitelash" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-whitelashs-projects.vercel.app/api?username=Whitelash&show_icons=true&include_all_commits=true&count_private=true&theme=jolly" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitelash&theme=jolly" alt="whitelash" /></p>
 
 
 
